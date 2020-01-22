@@ -1,6 +1,4 @@
-package lesson1.homeans;
-
-import java.util.GregorianCalendar;
+package lessons.lesson1.homeans;
 
 public class HomeWork {
 

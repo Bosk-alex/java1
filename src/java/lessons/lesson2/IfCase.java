@@ -1,10 +1,6 @@
-package lesson2;
+package lessons.lesson2;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class IfCase {
     public static void main(String[] args) throws IOException {

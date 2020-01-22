@@ -1,8 +1,8 @@
-package lesson2.homework;
+package lessons.lesson2.homework;
 
 import java.util.Arrays;
 
-import static lesson2.homework.ArrayUtils.*;
+import static lessons.lesson2.homework.ArrayUtils.*;
 
 /**
  * 1. Задать целочисленный массив, состоящий из элементов 0 и 1. Например: [ 1, 1, 0, 0, 1, 0, 1, 1, 0, 0 ].

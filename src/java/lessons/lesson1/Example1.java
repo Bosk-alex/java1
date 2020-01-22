@@ -1,6 +1,4 @@
-package lesson1;
-
-import java.util.Scanner;
+package lessons.lesson1;
 
 public class Example1 {
 
